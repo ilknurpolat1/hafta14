@@ -1,0 +1,3 @@
+bu derste djangonun ne olduğunu nasıl yapıclacağını  web uygulamaların hızlı ve verimli bir şekilde geliştirmek için kullanabileceğimiz bir yazılım olduğunu anladık.
+web uygulamalarında kimlik doğrulama vs. vardır biz de kullanıcı girişi, main girişi oluşturduk. Geliştiriciler genelde kodlarını daha verimli bir şekilde düzenlemek, 
+yazmak ve web geliştirme süresini önemli ölçüde azaltmak için Django web çerçevesini kullanmaktadırlar.
